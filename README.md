@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-See <http://james-roan.github.io>.
-
 <!--
 **james-roan/james-roan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
